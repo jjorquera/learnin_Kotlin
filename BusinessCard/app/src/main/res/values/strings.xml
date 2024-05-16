@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Joaquin Jorquera</string>
+    <string name="title">Fledgling Developer</string>
+    <string name="phone_number">+61 423 592 717</string>
+    <string name="instagram_handle">\@joaquin_jorquera1337</string>
+    <string name="email">jjorquera1337@gmail.com</string>
+</resources>
